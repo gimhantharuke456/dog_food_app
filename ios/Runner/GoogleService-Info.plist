@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>809718584629-3umduqmpedmrcdrce1kg0f1tri5dniig.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.809718584629-3umduqmpedmrcdrce1kg0f1tri5dniig</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>809718584629-r0fanv8msg53e00dqraj7c3848c8aoju.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBv51dJJeLXW02Vt401K4vkVp2AkPUeABs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>809718584629</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dogFoodApp</string>
+	<key>PROJECT_ID</key>
+	<string>ahenwada</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ahenwada.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:809718584629:ios:f38d864675d651a4b6287c</string>
+</dict>
+</plist>

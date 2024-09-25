@@ -1,0 +1,234 @@
+{
+  "project_info": {
+    "project_number": "809718584629",
+    "project_id": "ahenwada",
+    "storage_bucket": "ahenwada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809718584629:android:24dea04718bed327b6287c",
+        "android_client_info": {
+          "package_name": "com.example.ahenwada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809718584629-r0fanv8msg53e00dqraj7c3848c8aoju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahenwada",
+            "certificate_hash": "16881a12be8bab4bc3cb0de63b0ae2a6293e9cc9"
+          }
+        },
+        {
+          "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelm3AFKueLQe4OoNKJFYBu3lTMamDvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809718584629-2p799cdqje3b9kchpi3hk23m83nlfrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gimhan.tinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809718584629:android:a86048723c2f3793b6287c",
+        "android_client_info": {
+          "package_name": "com.example.bapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelm3AFKueLQe4OoNKJFYBu3lTMamDvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809718584629-2p799cdqje3b9kchpi3hk23m83nlfrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gimhan.tinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809718584629:android:155211dada9c36eab6287c",
+        "android_client_info": {
+          "package_name": "com.example.dog_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelm3AFKueLQe4OoNKJFYBu3lTMamDvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809718584629-2p799cdqje3b9kchpi3hk23m83nlfrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gimhan.tinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809718584629:android:578f74b8899ac76fb6287c",
+        "android_client_info": {
+          "package_name": "com.example.parkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelm3AFKueLQe4OoNKJFYBu3lTMamDvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809718584629-2p799cdqje3b9kchpi3hk23m83nlfrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gimhan.tinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809718584629:android:eb0e07658fd6fee5b6287c",
+        "android_client_info": {
+          "package_name": "com.example.vapprider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelm3AFKueLQe4OoNKJFYBu3lTMamDvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809718584629-2p799cdqje3b9kchpi3hk23m83nlfrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gimhan.tinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809718584629:android:9d57a92b4a3e651eb6287c",
+        "android_client_info": {
+          "package_name": "com.example.virtual_dress_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCelm3AFKueLQe4OoNKJFYBu3lTMamDvT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809718584629-29i6ehs7ct2b4plsbhceeb4o62iomgn7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809718584629-2p799cdqje3b9kchpi3hk23m83nlfrnf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gimhan.tinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
